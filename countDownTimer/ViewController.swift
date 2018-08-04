@@ -13,6 +13,7 @@ import AVFoundation
 var count = 5.0
 class ViewController: UIViewController {
 
+
 	@IBOutlet weak var picker: UIPickerView!
 
 	var	ttimer = Timer()
